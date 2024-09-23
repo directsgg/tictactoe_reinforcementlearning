@@ -32,3 +32,10 @@ State: Clase que representa el estado del juego, maneja la lógica del juego y d
 Agent: Clase que representa un agente que utiliza aprendizaje por refuerzo para jugar.
 
 totes.py: Archivo principal que inicializa el juego y controla el flujo del programa.
+
+## Funcionalidades
+Interfaz Gráfica: Utiliza Pygame para dibujar el tablero y los símbolos de los jugadores.
+
+Aprendizaje por Refuerzo: Los agentes pueden aprender y mejorar su estrategia de juego a través de la experiencia.
+
+Modo de Juego: Permite jugar contra otro jugador humano o contra un agente controlado por computadora.
